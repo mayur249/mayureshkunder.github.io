@@ -342,6 +342,11 @@ h6 {
   font-size: 14px;
 }
 
+.view {
+  display: flex;
+  justify-content: space-between;
+}
+
 #contact-form {
   display: block;
   max-width: 600px;
