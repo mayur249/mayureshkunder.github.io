@@ -19,4 +19,4 @@ This Repo Contains my Portfolio Website which is created using HTML, CSS, JS.
 [GitHub Pages](https://pages.github.com/) For Hosting  
 [Git](https://git-scm.com/) for source control
 
-To view the live demo, [click here](https://mayur249.github.io/)
+To view the live demo, [click here ](https://mayur249.github.io/)
